@@ -1,8 +1,9 @@
-f = open("puzzles/medium_3.txt", "r")
+filename = "test/small_2.txt"
+f = open(filename, "r")
 a = f.read()
 f.close()
 
-f = open("puzzles/medium_3.txt", "w")
+f = open(filename, "w")
 b = " ".join(a)
 f.write(b)
 
