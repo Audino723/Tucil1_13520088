@@ -1,4 +1,4 @@
-# Tugas Kecil I IF2211 Strategi Algoritma <br/> Penyelesaian Word Search Puzzle dengan Algoritma Bruto Force
+# Tugas Kecil I IF2211 Strategi Algoritma <br/> Penyelesaian Word Search Puzzle dengan Algoritma Brute Force
 > _Program Ini Dibuat Untuk Memenuhi Tugas Perkuliahan Mata Kuliah Strategi Algoritma (IF2211)_ <br/>
 >
 > _Program Studi Teknik Informatika <br/>
@@ -10,17 +10,17 @@
 * [General Information](#general-information)
 * [How To Run](#howtorun)
 * [Project Status](#project-status)
-* [Contributors](#contributors)
+* [Creator](#creator)
 
 ## General Information
 - Program pemecahan word search puzzle ini memanfaatkan strategi algoritma brute force dengan tipe heuristik
 - Tipe heuristik berarti terdapat beberapa langkah yang dipotong/dikurangi untuk mendaptkan waktu komputasi yang optimal
 
 ## How to Run
-> Pastikan file puzzle berada di folder puzzles
-> Pastikan input file sudah tepat (Tidak kelebihan spasi/enter)
-> Jalankan wordsearch.exe
-> Masukan nama file dengan ekstensinya (xxx.txt)
+- Pastikan file puzzle berada di folder puzzles
+- Pastikan input file sudah tepat (Tidak kelebihan spasi/enter)
+- Jalankan wordsearch.exe
+- Masukan nama file dengan ekstensinya (xxx.txt)
 
 ## Project Status
 > **Project is: _complete_**
