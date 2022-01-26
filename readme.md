@@ -17,7 +17,7 @@
 - Tipe heuristik berarti terdapat beberapa langkah yang dipotong/dikurangi untuk mendaptkan waktu komputasi yang optimal
 
 ## How to Run
-- Pastikan file puzzle berada di folder puzzles
+- Pastikan file puzzle berada di folder test
 - Pastikan input file sudah tepat (Tidak kelebihan spasi/enter)
 - Jalankan wordsearch.exe
 - Masukan nama file dengan ekstensinya (xxx.txt)

@@ -17,7 +17,7 @@ void readFile(vector<vector<char>> *puzzles, vector<vector<char>> *words, int *m
     string fileName;
     cout << "Input filename : ";
     cin >> fileName;
-    inFile.open("puzzles\\" + fileName);
+    inFile.open("..\\test\\" + fileName);
 
     //Error handling
     if (!inFile) {
